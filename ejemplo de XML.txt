@@ -4,12 +4,12 @@
 <Edit_Mensaje>
      <Mensaje>
           <Remitente>
-               <Nombre>Nombre del remitente</Nombre>
+               <Nombre>Nombre del remitente/s</Nombre>
                <Mail> Correo del remitente </Mail>
           </Remitente>
           <Destinatario>
-               <Nombre>Nombre del destinatario</Nombre>
-               <Mail>Correo del destinatario</Mail>
+               <Nombre>Nombre del destinatario/s</Nombre>
+               <Mail>Correo/s del destinatario</Mail>
           </Destinatario>
           <Texto>
                <Asunto>
